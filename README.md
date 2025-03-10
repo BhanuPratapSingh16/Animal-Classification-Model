@@ -1,5 +1,3 @@
-![Screenshot (19)](https://github.com/user-attachments/assets/3a3a6744-3fd1-417b-bbd9-916ee2914720)# CNN Image Classifier: Cats, Dogs, and Wild Animals
-
 ## 📌 Project Overview
 This project is a **Convolutional Neural Network (CNN)** built from scratch to classify images of **cats, dogs, and wild animals**. The model was trained using **Google Colab** and achieved an impressive **97.8% accuracy**!
 
